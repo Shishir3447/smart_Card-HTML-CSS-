@@ -1,0 +1,51 @@
+.main{
+    width: 400px;
+    height: 100px;
+    background-color:black;
+    color: aliceblue;
+    font-style: italic;
+    margin: auto;
+    border: 5px solid rgb(197, 19, 19);
+    padding: 100px;
+    position: relative;
+    
+
+}
+/* .main2{
+    width: 395px;
+    height: 95px;
+    border: 2px solid skyblue;
+    position: absolute;
+} */
+.img{
+    margin-top: -90px;
+    margin-left: -90px;
+}
+.about{
+    width: 390px;
+    height: -7px;
+    margin-left: 32px;
+    margin-top: -81px;
+    font-size: 9px;
+   
+}
+.contact{
+
+    margin-top: 48px;
+    margin-left: -85px;
+    font-size: 18px;
+    text-decoration: none;
+
+}
+.project{
+    margin-top: -64px;
+    margin-left: 351px;
+    width: 126px;
+}
+#git{
+    margin-left: 29px; 
+    color: aliceblue;
+    text-decoration: none;
+   top: -500px;
+
+}
